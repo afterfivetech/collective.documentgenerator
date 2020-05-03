@@ -7,6 +7,14 @@ Changelog
 - Nothing changed yet.
 
 
+3.14+afive.1 (2020-05-03)
+-------------------------
+
+- Remove collective.documentviewer overrides;
+  Not required if using v5 or higher
+  [holdenhao]
+
+
 3.14 (2020-04-23)
 -----------------
 
